@@ -8,4 +8,8 @@ We are going to use the following technologies:
 - Node.js
 - MongoDB
 
-Last update: February 7, 2019 20:04
+Last update: February 9, 2019 20.05
+
+## Daily notes
+
+Finally, I successfully connected and authenticated this VPS at GitHub. :)
