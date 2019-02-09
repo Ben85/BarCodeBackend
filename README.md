@@ -11,5 +11,7 @@ We are going to use the following technologies:
 Last update: February 9, 2019 20.05
 
 ## Daily notes
+*February 9, 20.05*
 
-Finally, I successfully connected and authenticated this VPS at GitHub. :)
+- Finally, I successfully connected and authenticated this VPS at GitHub. :)
+- I'm changing my user.name in `git config`.
