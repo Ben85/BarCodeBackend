@@ -14,4 +14,5 @@ Last update: February 9, 2019 20.05
 *February 9, 20.05*
 
 - Finally, I successfully connected and authenticated this VPS at GitHub. :)
-- I'm changing my user.name in `git config`.
+- I've changed my user.name in `git config` but this is not enough.
+- I've changed my user.email and I'll see wether it is enough.
