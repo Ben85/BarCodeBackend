@@ -1,0 +1,28 @@
+{
+  "name": "bar_code_reader_backend",
+  "version": "1.0.0",
+  "description": "building a bar code reader app. this will be the backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben85/BarCodeBackend.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api",
+    "barcode"
+  ],
+  "author": "Bende&Peti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ben85/BarCodeBackend/issues"
+  },
+  "homepage": "https://github.com/Ben85/BarCodeBackend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
